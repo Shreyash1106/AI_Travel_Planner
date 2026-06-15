@@ -1,0 +1,25 @@
+# Virtual Environment
+langgraph_env3/
+venv/
+env/
+.venv/
+
+# Environment variables (API keys — never commit this!)
+.env
+
+# Auto-saved travel plans (optional — remove if you want to track them)
+travel_plans/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
