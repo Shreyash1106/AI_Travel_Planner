@@ -6,7 +6,7 @@ A **Multi-Agent AI System** built with LangGraph that plans complete travel itin
 
 ## 🖥️ Demo
 
-![AI Travel Booking System](https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=80)
+![AI Travel Booking System](s1.png)
 
 > Enter a travel query like _"7-day Japan trip under ₹2 Lakhs"_ and 4 AI agents instantly build your complete travel plan.
 
